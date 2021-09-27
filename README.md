@@ -9,7 +9,7 @@ The class meetings, referred to as "studios," include a lot of hands-on work ses
 
 
 # Schedule
-You can find the up-to-date schedule of this course [here](TBD).
+You can find the up-to-date schedule of this course [here](https://docs.google.com/spreadsheets/d/1nTp8QFc_77eymrpXpTZd6GkCLeyoO52MwIEh3L8tue4/edit?usp=sharing).
 
 # Textbook
 There is no required textbook for the course.
