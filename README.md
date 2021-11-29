@@ -15,12 +15,16 @@ You can find the up-to-date schedule of this course [here](https://docs.google.c
 There is no required textbook for the course.
 
 # Grading
-There will be four assignments and most of them requires written reports and/or oral presentations. Throughout the quarter you will also be asked to review your peer's project report and provide feedback for them. The grading breakdowns are as below.
+There will be four assignments and most of them requires written reports and/or oral presentations. Throughout the quarter you will also be asked to review your peer's project report and provide feedback for them. Grading will be done based on the completeness of each studio activity and assignment (= you have to submit all the deliverables), as emphasized by multiple times throughout the quarter. 
+
+
+
+====== Text below is deprecated ======
+The grading breakdowns are as below.
 
 * Reading on Qualitative vs. Quantitative Research: 10%
 * Open Coding Analysis Project: 25% 
 * SDPD Project: 25%
 * Open-Ended Project: 30%
 * Reviewing Peer's Report: 10%
-
 
